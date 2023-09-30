@@ -1,3 +1,3 @@
 # testing flet
 
-sqlit3 with pyhon flet.  
+This is my sqlit3 with pyhon flet for larning.  
